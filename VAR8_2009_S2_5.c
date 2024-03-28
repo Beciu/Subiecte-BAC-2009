@@ -16,9 +16,9 @@ int main()
 		}
 		printf("%d", a[n][p]);
 	}
-	
 
 
+	// INCOMPLET
 
 
 }
