@@ -74,3 +74,6 @@ int main()				//varianta cu do-while de la punctul d)
 	printf("%d", y);
 	printf("\nCUCUBAUBAU");
 }
+
+
+// S2. 1) b)
