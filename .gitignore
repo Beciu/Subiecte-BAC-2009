@@ -53,5 +53,8 @@ dkms.conf
 
 # Visual Studio cache/options directory
 .vs/
-/VAR17/VAR17_2009_S1_INTREG.sln
+x64/
+*.sln
 *.user
+*.vcxproj
+*.filters
